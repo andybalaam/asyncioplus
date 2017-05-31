@@ -23,5 +23,5 @@ limiting the number of in-progress tasks to a set limit (10 in this example).
 
 Copyright(c) 2017 Andy Balaam and the asyncioplus contributors.
 
-Released under the [Python Software Foundation Licence}(https://docs.python.org/3/license.html)
- - see [LICENSE.txt](LICENSE.txt) for details.
+Released under the [Python Software Foundation Licence](https://docs.python.org/3/license.html).
+See [LICENSE.txt](LICENSE.txt) for details.
